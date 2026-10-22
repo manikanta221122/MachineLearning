@@ -68,6 +68,3 @@ noise floor is high by design; expect different numbers on the real Allstate dat
 ## Ideas to extend
 Optuna tuning, XGBoost/LightGBM/CatBoost, SHAP explanations, target encoding of high-cardinality
 categoricals, FastAPI service, drift monitoring.
-"# MachineLearning" 
-"# MachineLearning" 
-"# MachineLearning" 
